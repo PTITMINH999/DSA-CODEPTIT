@@ -1,0 +1,1 @@
+{"name":"Local: DSA3017","url":"c:\\Users\\Dang Tuan Minh\\OneDrive\\Máy tính\\codeptit DSA\\GREEDY\\DSA3017.cpp","tests":[{"id":1726534570997,"input":"2\n2\nABCCBC\n2\nAAAB","output":"6\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dang Tuan Minh\\OneDrive\\Máy tính\\codeptit DSA\\GREEDY\\DSA3017.cpp","group":"local","local":true}
