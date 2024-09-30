@@ -22,7 +22,7 @@ void dijkstra(int s){
             int w=x.second;
             if(d[v]>d[u]+w){
                 d[v]=d[u]+w;
-                q.push({d[u],v});
+                q.push({d[v],v});
             }
         }
     }
